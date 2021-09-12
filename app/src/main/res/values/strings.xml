@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KitBox</string>
+    <string name="newspaper_theme_activator">Newspaper 11 Theme Tool</string>
+
+    <string name="congratulation">!!! CONGRATULATION !!!</string>
+    <string name="watch_video_and_earn">Watch video and earn more points.</string>
+    <string name="get_more_coins">Get more coins</string>
+    <string name="earn_coin">Earn Coin</string>
+
+    <string name="navigation_deawer_open">open</string>
+    <string name="navigation_deawer_close">close</string>
+    <string name="rewardedAdsCode">ca-app-pub-3763661277329545/1522098213</string>
+    <string name="appAdsCode">ca-app-pub-3763661277329545~6965382263</string>
+</resources>
